@@ -1,0 +1,10 @@
+C:\Users\Ryohei\Documents\_.NET C#\JPITWords\JPITWords\bin\Debug\JPITWords.exe.config
+C:\Users\Ryohei\Documents\_.NET C#\JPITWords\JPITWords\bin\Debug\JPITWords.exe
+C:\Users\Ryohei\Documents\_.NET C#\JPITWords\JPITWords\bin\Debug\JPITWords.pdb
+C:\Users\Ryohei\Documents\_.NET C#\JPITWords\JPITWords\obj\Debug\JPITWords.csprojAssemblyReference.cache
+C:\Users\Ryohei\Documents\_.NET C#\JPITWords\JPITWords\obj\Debug\JPITWords.frmPortal.resources
+C:\Users\Ryohei\Documents\_.NET C#\JPITWords\JPITWords\obj\Debug\JPITWords.Properties.Resources.resources
+C:\Users\Ryohei\Documents\_.NET C#\JPITWords\JPITWords\obj\Debug\JPITWords.csproj.GenerateResource.cache
+C:\Users\Ryohei\Documents\_.NET C#\JPITWords\JPITWords\obj\Debug\JPITWords.csproj.CoreCompileInputs.cache
+C:\Users\Ryohei\Documents\_.NET C#\JPITWords\JPITWords\obj\Debug\JPITWords.exe
+C:\Users\Ryohei\Documents\_.NET C#\JPITWords\JPITWords\obj\Debug\JPITWords.pdb
